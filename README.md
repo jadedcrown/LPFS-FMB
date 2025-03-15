@@ -20,6 +20,6 @@ Please note that videos must be downloaded to be played. Please check the `infor
 You may *not* share changed versions of my files without *explicit and written permission.* This includes edits of videos and specifically selected portions of my writing!<br>
 Edits and derivitives that are in this repository, ***even if they have been shared elsewhere,*** are also licensed under CC BY-ND 4.0.<br>
 <br>
-Please note that, even if I do not enforce this license on content made in good faith, I will *always* enforce it on content made in bad faith.<br>
+Please note that, even if I do not enforce this license on content made in good faith, I will <em>always</em> enforce it on content made in bad faith.<br>
 <br>
 *I, @jadedcrown, reserve the right to share all content on this repository publicly.*
