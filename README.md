@@ -8,6 +8,8 @@ This is a <ins>public</ins> repository containing videos and written works by @j
 -Everything but videos is in `./essays/`. This includes PDFs and txt files.<br>
 -You're welcome to share all the files you'd like among anyone you wish to.<br>
 <br>
+Please note that videos must be downloaded to be played. Please check the `information.txt` (using Ctrl+F with the filename) to find an applicable YouTube link. If it is not present, uh... tough luck, sorry.
+<br>
 <br>
 <br>
 > ------
