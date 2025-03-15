@@ -24,5 +24,5 @@ Edits and derivitives that are in this repository, <em><strong>even if they have
 <br>
 Please note that, even if I do not enforce this license on content made in good faith, I will <em>always</em> enforce it on content made in bad faith.<br>
 <br>
-<em>I, @jadedcrown, reserve the right to share all content on this repository publicly.*</em>
+<em>I, @jadedcrown, reserve the right to share all content on this repository publicly.*</em><br>
 <sub>*Please note that potentially sensitive content will not be shared this repository, and as such I will not share it.</sub>
