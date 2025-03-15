@@ -16,10 +16,12 @@ Please note that videos must be downloaded to be played. Please check the `infor
 <br>
 <br>
 <br>
-!!All information here is made under the CC BY-ND 4.0 license!!<br>
+## USE OF CONTENT & LICENSING
+!!All information here is made under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en) license!!<br>
 You may <em>not</em> share changed versions of my files without <em>explicit and written permission.</em> This includes edits of videos and specifically selected portions of my writing!<br>
 Edits and derivitives that are in this repository, <em><strong>even if they have been shared elsewhere,</strong></em> are also licensed under CC BY-ND 4.0.<br>
 <br>
 Please note that, even if I do not enforce this license on content made in good faith, I will <em>always</em> enforce it on content made in bad faith.<br>
 <br>
 <em>I, @jadedcrown, reserve the right to share all content on this repository publicly.*</em>
+<sub>*Please note that potentially sensitive content will not be shared this repository, and as such I will not share it.</sub>
