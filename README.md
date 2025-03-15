@@ -15,7 +15,6 @@ Please note that videos must be downloaded to be played. Please check the `infor
 > ------
 <br>
 <br>
-<br>
 
 ## USE OF CONTENT & LICENSING
 
