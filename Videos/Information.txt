@@ -6,12 +6,14 @@ Information about videos such as recording dates, types of events, and hosts wil
     EVENT TYPE
     EVENT HOST
     UNIT WHICH RECORDER IS ON
+    YOUTUBE LINK
     INCIDENTS :: [TIMESTAMP] [DESCRIPTION]
 
 12/2025/049.mp4 ::
     Prescribed Fire
     John Doe
     Engine 317
+    youtubedotcom/watchv?=abcdefghijk
     INCIDENTS :: 01:04:28 Someone forgot their snacks and thn killed Swiss because of it. | 01:95:2858 Swiss appeared again and then destroyed Buggy 2021. Ooopsies.
 
 **EVENTS ACTUAL**
