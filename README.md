@@ -16,7 +16,7 @@ Please note that videos must be downloaded to be played. Please check the `infor
 <br>
 <br>
 <br>
-## USE OF CONTENT & LICENSING
+## USE OF CONTENT & LICENSING<br>
 !!All information here is made under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en) license!!<br>
 You may <em>not</em> share changed versions of my files without <em>explicit and written permission.</em> This includes edits of videos and specifically selected portions of my writing!<br>
 Edits and derivitives that are in this repository, <em><strong>even if they have been shared elsewhere,</strong></em> are also licensed under CC BY-ND 4.0.<br>
