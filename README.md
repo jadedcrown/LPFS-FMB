@@ -6,7 +6,7 @@ This is a <ins>public</ins> repository containing videos and written works by @j
 -Welcome!<br>
 -Please check only the files you were directed to check. You are welcome to look at other files, but they do not concern you, and will probably not help you.<br>
 -Everything but videos is in `./essays/`. This includes PDFs and txt files.<br>
--You're welcome to share all the files you'd like among anyone you wish to.<br>
+-You're welcome to share all the files you'd like among anyone you wish to. <strong>However,</strong> please direct them to the repository instead of / while sharing other files.<br>
 <br>
 Please note that videos must be downloaded to be played. Please check the `information.txt` (using Ctrl+F with the filename) to find an applicable YouTube link. If it is not present, uh... tough luck, sorry.
 <br>
