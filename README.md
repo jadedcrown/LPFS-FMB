@@ -25,4 +25,5 @@ Edits and derivitives that are in this repository, <em><strong>even if they have
 Please note that, even if I do not enforce this license on content made in good faith, I will <em>always</em> enforce it on content made in bad faith.<br>
 <br>
 <em>I, @jadedcrown, reserve the right to share all content on this repository publicly.*</em><br>
-<sub>*Please note that potentially sensitive content will not be shared this repository, and as such I will not share it.</sub>
+<sub>*Please note that potentially sensitive content will not be shared this repository, and as such I will not share it.</sub><br>
+<sub>This license is primarily to prevent out-of-context use of clips and text. I don't want people not using my content, but I also need some backup to make sure it's not used in bad faith - as it has been historically.</sub>
